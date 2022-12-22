@@ -1,0 +1,1 @@
+// Variáveis são recipintes que armazenam valores. VideoStop=3:04

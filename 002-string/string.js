@@ -17,7 +17,7 @@ console.log('\n');
 
 console.log('\n');
 
-    console.log("Olhar no código.")
+    console.log("Olhar no código. ")
 
     // TemplateString:
     const idade = 22;

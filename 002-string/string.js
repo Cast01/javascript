@@ -1,4 +1,5 @@
 // MDN javascript String: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String
+// Javascript conceitos básicos:  https://www.youtube.com/watch?v=vrSEt5J4q2Y&list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp
 
 // String: tudo que estiver dentro de aspas(duplas/simples) será visto como uma string e o que seria uma string, basicamente uma string é uma sequencia de caracteres(letras, simbolos e até números). Se colocarmos numeros entre aspas esses numeros serão vistos como uma string(letra, caractere).
 
